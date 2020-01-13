@@ -1,4 +1,4 @@
-# Titanic Problem using Logistic Pegression
+# Titanic Problem using Logistic Regression
 
 ## In this model, the surviours are predicted in the titanic shipwreck based on type of passengers with multiple variables as predictors
 
